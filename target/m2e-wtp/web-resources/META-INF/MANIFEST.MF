@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ineotrust
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: vishwas
+Implementation-Vendor-Id: com.ineo.trust
+Build-Jdk: 1.8.0_212
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ineotrust
+Created-By: Maven Integration for Eclipse
+
